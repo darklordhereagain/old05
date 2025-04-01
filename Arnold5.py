@@ -80,7 +80,7 @@ except:print('\n Pycurl Module Error!\n Contact With Owner! ');exit()
 
 import random
 
-os.system('xdg-open https://youtube.com/@yeitechmonto?si=KuFvD1d932SY-U6G')
+os.system('xdg-open https://www.youtube.com/@OneManCodeCommunity')
 
 
 
@@ -101,8 +101,8 @@ class OLD_CLONER:
         print("\033[1;32m##     ## ##    ##  ##   ### ##     ## ##       ##     ## ")
         print("\033[1;32m##     ## ##     ## ##    ##  #######  ######## ########  ")
         print("\033[1;37m------------------------------------------------")
-        print("\033[1;33m[+]\033[1;35mAUTHOR  : ARNOLD")
-        print("\033[1;33m[+]\033[1;35mVERSION : OLD CRACK")
+        print("\033[1;33m[+]\033[1;35mAUTHOR  : OneManCode")
+        print("\033[1;33m[+]\033[1;35mVERSION : OneManCode.com")
         print("\033[1;33m[+]\033[1;35mVERSION : 0")
         print("\033[1;37m------------------------------------------------")
     
